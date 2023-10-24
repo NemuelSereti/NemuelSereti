@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cloud Security Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/NemuelSereti/LABURL)
+  - [Active Directory Home Lab](https://github.com/NemuelSereti/ActiveDirectoryLab)
   - [Basic Keylogger with Python](https://github.com/NemuelSereti/KEYLOGGER)
 
 
